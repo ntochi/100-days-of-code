@@ -1,19 +1,25 @@
 # 100 Days Of Code - Log
 
-## Day 0: July 8, 2020
+## Day 0: 7/7/20
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+- **Today's Progress**: Committed to #100DaysOfCode challenge
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+## Day 1-2: 7/8/20 - 7/9/20
 
-**Link to work:** [Calculator App](http://www.example.com)
+- **Today's Progress**:
 
-## Day 1: July 9, 2020
+- Reviewed the principles of REST.
+- Defined route paths for clothing store app.
+- Studied CS50 Lecture 2: Arrays.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+- **Thoughts**: Today I got to understand the principle of Stateless in REST.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+In REST applications, the session state is entirely managed by the client and the request must contain all the necessary information to be understood by the server.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+If the server requires a shopping cart checkout, for example, each request must contain all the information required. This will most likely look like this: /user/1234/shopping-cart or /shopping-cart?userID=1234
+
+The point is, everything needed to process the request should be in the request.
+
+- **Link(s) to work**
+
+1. [Source code](https://github.com/ntochi/doremas-place/commit/d684d6f5624b440b1b87be8c7af5e75424c79b13)
