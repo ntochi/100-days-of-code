@@ -12,7 +12,7 @@ Committed to #100DaysOfCode challenge.
 
 - Reviewed the principles of REST.
 - Defined route paths for clothing store app.
-- Studied CS50 Lecture 2: Arrays.
+- Studied [CS50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) Lecture 2: Arrays.
 
 ### Thoughts
 
