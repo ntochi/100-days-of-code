@@ -27,3 +27,16 @@ The point is, everything needed to process the request should be in the request.
 ### Link(s) to work
 
 - [Source code](https://github.com/ntochi/doremas-place/commit/d684d6f5624b440b1b87be8c7af5e75424c79b13)
+
+## Day 3
+
+### Today's Progress
+
+- I continued studying [CS50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) Lecture 2: Arrays.
+- Read [Dan Abramov's](https://twitter.com/dan_abramov) Just JavaScript article on values & variables.
+
+### Thoughts
+
+From Dan's article, I loved the thrill I felt when I understood the concept of understanding variables as "wires". I used to think variables work like values maybe because of how the syntax is used interchangeably in tutorials and study materials.
+
+I can now build on this mental model anytime I need to interpret code. Variables are "wires". Wires point to values. Values are of two types: Primitive values & Objects (and functions).
