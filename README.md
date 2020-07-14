@@ -30,7 +30,7 @@ The point is, everything needed to process the request should be in the request.
 
 ## Day 3
 
-### Today's Progress
+### Today's Progress 
 
 - I continued studying [CS50](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) Lecture 2: Arrays.
 - Read [Dan Abramov's](https://twitter.com/dan_abramov) Just JavaScript article on values & variables.
@@ -40,3 +40,19 @@ The point is, everything needed to process the request should be in the request.
 From Dan's article, I loved the thrill I felt when I understood the concept of understanding variables as "wires". I used to think variables work like values maybe because of how the syntax is used interchangeably in tutorials and study materials.
 
 I can now build on this mental model anytime I need to interpret code. Variables are "wires". Wires point to values. Values are of two types: Primitive values & Objects (and functions).
+
+## Day 4
+
+### Today's Progress 
+
+Couldn’t code much today. Spent some time working on the “about me” section of my portfolio. Also read a few tech articles. 
+
+### Thoughts
+
+I enjoyed reading the Values & Variables article by Dan Abramov. He illustrated that the JavaScript world can be seen from two angles: the inside world & the outside world. 
+
+Studying JavaScript from the inside should be the foundation of our knowledge as opposed to the lower-level details that only serve as additions. 
+
+The exercises at the end of the articles really drives the concepts home.
+
+
