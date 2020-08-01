@@ -73,3 +73,74 @@ After a few failed attempts, this [article](https://flaviocopes.com/tailwind-set
 
 - [Source code 1](https://github.com/ntochi/doremas-place/commit/b7c744515265e5c9bee033f781dd49024df2f7ab)
 - [Source code 2](https://github.com/ntochi/doremas-place/commit/1b5b8403a6b79bee910b5a6aed7d7063a77f8fcc)
+
+## Day 6-7
+
+### Today's Progress 
+
+For the online store app:
+
+- I worked on the navigation bar; added some nav links for relevant routes.
+
+- Read the documentation for Tailwind
+
+### Link to work
+
+- [Source code 1](https://github.com/ntochi/doremas-place/commit/2185224545d0e8b20a34720dc628fd0ef72dcd6d)
+
+## Day 8
+
+### Today's Progress 
+
+Worked on a dropdown menu for the user account.
+
+Today was one of those days when you’re not quite sure why your code isn't working 😩. Didn’t have much time to code today, would try again tomorrow 🚶🏻‍♀️
+
+### Thoughts
+
+Had a challenge getting the user dropdown menu to work. Wasn't sure if it was because of my files linked incorrectly or wrong code. Would review it again tomorrow.
+
+Also, Tailwind is revealing a lot of my knowledge gaps in CSS. Whelp!
+
+## Day 9-12
+
+### Today's Progress 
+
+Worked on the hero section of my portfolio. Also learned some cool tricks on how to make SVGs responsive with CSS.
+
+### Link to work
+
+- [Tweet](https://twitter.com/ntochi_/status/1285558276193693697?s=20)
+
+## Day 13
+
+### Today's Progress 
+
+Solved some code challenges on JavaScript objects & properties.
+
+## Day 14-16
+
+### Today's Progress 
+
+Found out there is more to Tailwind than I expected & I’m loving it!
+
+Had to slow down to revisit some CSS layout concepts. Also redesigned the layout of my app to meet utility-first criteria.
+
+### Thoughts
+
+Spent some time reading about all things Tailwind. Read through most of the sections of the official documentation.
+
+Deciding to incorporate Tailwind in my project revealed some CSS knowledge gaps I had 😑. I am glad this framework has an active community too!
+
+## Day 17-19
+
+### Today's Progress 
+
+- Took a deeper look into APIs; data formats, endpoints, making requests, etc
+- Researched various APIs available for a clothing store
+
+### Thoughts
+
+Using the wall socket & electricity distributors analogy, API can easily be related to consuming clients and service providers while the agreed "standards" between them keeps the API economy running effectively.
+
+I was able to connect the dots with this [API 101 series](https://www.programmableweb.com/api-university/what-are-apis-and-how-do-they-work).
