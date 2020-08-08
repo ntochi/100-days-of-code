@@ -86,7 +86,7 @@ For the online store app:
 
 ### Link to work
 
-- [Source code 1](https://github.com/ntochi/doremas-place/commit/2185224545d0e8b20a34720dc628fd0ef72dcd6d)
+- [Source code](https://github.com/ntochi/doremas-place/commit/2185224545d0e8b20a34720dc628fd0ef72dcd6d)
 
 ## Day 8
 
@@ -144,3 +144,62 @@ Deciding to incorporate Tailwind in my project revealed some CSS knowledge gaps 
 Using the wall socket & electricity distributors analogy, API can easily be related to consuming clients and service providers while the agreed "standards" between them keeps the API economy running effectively.
 
 I was able to connect the dots with this [API 101 series](https://www.programmableweb.com/api-university/what-are-apis-and-how-do-they-work).
+
+## Day 20-21
+
+### Today's Progress 
+
+- Worked on the index view page that displays a list of all products.
+
+### Link to work
+
+- [Source code](https://github.com/ntochi/doremas-place/commit/7338d2332415ee8b3515206a2a50552d4a469a6b)
+
+## Day 22-23
+
+### Today's Progress 
+
+- Connected app to a database.
+- Defined Mongoose schema & model.
+- Created seed data that populates each time the app is reloads.
+
+### Thoughts
+
+Coding this part of the project gave me a better understanding of linking the MongoDB database, defining schema & compiling models.
+
+
+### Link(s) to work
+
+- [Source code 1](https://github.com/ntochi/doremas-place/commit/f03d087d8aeb443e7d3eb5b50085b14d18c57418)
+- [Source code 2](https://github.com/ntochi/doremas-place/commit/ea7123651fed7a7b12d6e48a8b3269d303e21e8c)
+
+## Day 24
+
+### Today's Progress 
+
+Coded a page that shows more information about the product when clicked. I did this by finding the product ID & then rendering the product info page.
+
+### Thoughts
+
+Today I noticed I'm beginning to understand why I have errors in my code and the bug that's responsible for that. It's exciting (for now 😅). Achieved this faster than I thought I would.
+
+### Link(s) to work
+
+- [Source code](https://github.com/ntochi/doremas-place/commit/0d180d4b1a513ecf90b82a4cea8c0578fea25c8d)
+
+## Day 25-26
+
+### Today's Progress 
+
+- Redesigned the layout of the product info page.
+- Fixed image responsiveness on smaller breakpoints.
+- Added size & fit details.
+
+### Thoughts
+
+These kids are so cuteeee 🥺, can't help eeeet! On a technical note, is it safe to say I like flexbox?
+
+### Link(s) to work
+
+- [Tweet](https://twitter.com/ntochi_/status/1291738678860173312)
+- [Source code](https://github.com/ntochi/doremas-place/commit/6f87fe10a57ad9c4c371e0e55c78aafae06742c7)
